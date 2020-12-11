@@ -1,5 +1,3 @@
-<html>
-  <body>
-    this a page
-  </body>
-  </html>
+Gold Price Harga Emas
+
+#hargaemas.github.io
